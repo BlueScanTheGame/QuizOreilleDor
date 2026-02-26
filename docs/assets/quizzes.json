@@ -1,0 +1,81 @@
+[
+    {
+        "name":"Quiz oreilles d'or",
+        "isRandom":false,
+        "picture": "Thales_Logo_Future.png",
+        "description":"Quiz de démonstration",
+        "questions":[
+            {
+                "correctAnswer":"Trawler",
+                "wrongAnswers":["Avion de chasse","Crevettes et dauphins"]
+            },
+            {
+                "correctAnswer":"Crevettes et dauphins",
+                "wrongAnswers":["Avion de chasse","Trawler"]
+            }
+        ]
+    },
+    {
+        "name":"Quiz aléatoire",
+        "description":"Préparez-vous à être surpris par ce quiz 100% aléatoire !",
+        "isRandom":true,
+        "picture":""
+    },
+    
+    {
+        "name":"Quiz famille",
+        "isRandom":false,
+        "picture": "Analystes.png",
+        "description":"Quiz de démonstration adapté à tous",
+        "questions":[
+            {
+                "correctAnswer":"Trawler",
+                "wrongAnswers":["Avion de chasse","Crevettes et dauphins"]
+            },
+            {
+                "correctAnswer":"Crevettes et dauphins",
+                "wrongAnswers":["Avion de chasse","Trawler"]
+            }
+        ]
+    },
+    {
+        "name":"Quiz de l'extrême 2",
+        "isRandom":false,
+        "picture": "Analystes.png",
+        "description":"Quiz pour les sous-mariniers les plus chevronnés !",
+        "questions":[
+            {
+                "correctAnswer":"Trawler",
+                "wrongAnswers":["Avion de chasse","Crevettes et dauphins","Marsouins"]
+            },
+            {
+                "correctAnswer":"Crevettes et dauphins",
+                "wrongAnswers":["Avion de chasse","Marsouins"]
+            },
+            {
+                "correctAnswer":"Baleines",
+                "wrongAnswers":["Avion de chasse","Trawler"]
+            },
+            {
+                "correctAnswer":"Crevettes et dauphins",
+                "wrongAnswers":["Avion de chasse","Trawler"]
+            },
+            {
+                "correctAnswer":"Crevettes et dauphins",
+                "wrongAnswers":["Avion de chasse","Trawler"]
+            },
+            {
+                "correctAnswer":"Crevettes et dauphins",
+                "wrongAnswers":["Avion de chasse","Trawler"]
+            },
+            {
+                "correctAnswer":"Crevettes et dauphins",
+                "wrongAnswers":["Avion de chasse","Trawler"]
+            },
+            {
+                "correctAnswer":"Crevettes et dauphins",
+                "wrongAnswers":["Avion de chasse","Trawler"]
+            }
+        ]
+    }
+]
