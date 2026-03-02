@@ -1,33 +1,260 @@
 [
     {
-        "name": "Trawler",
-        "Description":"Un chalulier est une navire...",
-        "clip": "Chalutier_1.mp3"
+        "name": "Avion de chasse",
+        "description": "Aéronef militaire à haute performance capable de franchir le mur du son."
     },
     {
-        "name": "Crevettes et dauphins",
-        "clip": "Crevettes_et_dauphins.mp3"
+        "name": "Zodiac",
+        "description": "Embarcation pneumatique légère et rapide propulsée par un moteur hors-bord."
     },
     {
-        "name": "Avion de chasse"
+        "name": "Baleine bleue",
+        "description": "Le plus grand animal de la planète, émettant des sons de très basse fréquence."
     },
     {
-        "name": "Zodiac"
+        "name": "Béluga",
+        "description": "Surnommé le canari des mers en raison de ses sifflements variés et aigus."
     },
     {
-        "name": "Marsouins",
-        "clip": "Marsouins.mp3"
+        "name": "Narval",
+        "description": "Cétacé arctique dont le mâle possède une dent en spirale semblable à une corne."
+    },
+    {
+        "name": "Phoque barbu",
+        "description": "Mammifère marin polaire connu pour ses trilles sonores descendants et mélodiques."
+    },
+    {
+        "name": "Otarie",
+        "description": "Carnivore marin capable de se déplacer sur terre, émettant des aboiements sonores."
+    },
+    {
+        "name": "Morse",
+        "description": "Grand mammifère arctique à défenses produisant des bruits de cloches et de frappements."
+    },
+    {
+        "name": "Manchot",
+        "description": "Oiseau marin ne volant pas, dont les cris permettent de se reconnaître dans la colonie."
+    },
+    {
+        "name": "Léopard de mer",
+        "description": "Puissant prédateur antarctique émettant des sons gutturaux sous l'eau."
+    },
+    {
+        "name": "Voilier",
+        "description": "Embarcation propulsée par le vent, générant des sons de gréement et de clapotis."
+    },
+    {
+        "name": "Brise-glace",
+        "description": "Navire à coque renforcée conçu pour ouvrir des voies dans les eaux gelées."
+    },
+    {
+        "name": "Hydroptère",
+        "description": "Bateau dont la coque s'élève au-dessus de l'eau grâce à des ailes immergées."
+    },
+    {
+        "name": "Aéroglisseur",
+        "description": "Véhicule amphibie circulant sur un coussin d'air au-dessus de l'eau."
+    },
+    {
+        "name": "Jet-ski",
+        "description": "Véhicule nautique à moteur monoplace ou biplace propulsé par un jet d'eau."
+    },
+    {
+        "name": "Plateforme pétrolière",
+        "description": "Structure industrielle massive fixée ou flottante pour l'extraction d'hydrocarbures."
+    },
+    {
+        "name": "Dragueur de mines",
+        "description": "Navire militaire conçu pour détecter et neutraliser les mines marines."
+    },
+    {
+        "name": "Tsunami",
+        "description": "Onde océanique géante générée par un séisme ou une éruption sous-marine."
+    },
+    {
+        "name": "Vague déferlante",
+        "description": "Masse d'eau qui s'écroule sur elle-même en arrivant près du rivage."
+    },
+    {
+        "name": "Grêle en mer",
+        "description": "Précipitation de billes de glace percutant violemment la surface de l'eau."
+    },
+    {
+        "name": "Courant marin",
+        "description": "Déplacement horizontal d'eau de mer dû aux différences de température et salinité."
+    },
+    {
+        "name": "Geyser sous-marin",
+        "description": "Source hydrothermale éjectant de l'eau brûlante et des minéraux sur les fonds marins."
+    },
+    {
+        "name": "Avalanche par seisme",
+        "description": "Glissement de sédiments provoqué par une secousse tellurique.",
+        "clip": "Avalanche_par_seisme.mp3"
     },
     {
         "name": "Baleines",
+        "description": "Grands mammifères marins présents dans tous les océans.",
         "clip": "Baleines.mp3"
     },
     {
+        "name": "Baleine a bosse",
+        "description": "Cétacé célèbre pour ses sauts et ses chants complexes.",
+        "clip": "Baleine_a_bosse.mp3"
+    },
+    {
+        "name": "Baleine Du Groenland",
+        "description": "Cétacé arctique pouvant vivre plus de 200 ans.",
+        "clip": "Baleine_Du_Groenland.mp3"
+    },
+    {
+        "name": "Baleine franche",
+        "description": "Grand cétacé massif sans aileron dorsal.",
+        "clip": "Baleine_franche.mp3"
+    },
+    {
+        "name": "Batiment scientifique et dauphins",
+        "description": "Navire de recherche croisant un groupe de dauphins.",
+        "clip": "Batiment_scientifique_et_dauphins.mp3"
+    },
+    {
+        "name": "Cachalot",
+        "description": "Grand prédateur à dents plongeant en grande profondeur.",
+        "clip": "Cachalot.mp3"
+    },
+    {
         "name": "Cachalots",
+        "description": "Groupe de cachalots communiquant par cliquetis.",
         "clip": "Cachalots.mp3"
     },
     {
+        "name": "Car ferry",
+        "description": "Navire transportant passagers et véhicules.",
+        "clip": "Car_ferry.mp3"
+    },
+    {
+        "name": "Chalutier",
+        "description": "Bateau de pêche utilisant un filet traînant (le chalut).",
+        "clip": "Chalutier_1.mp3"
+    },
+    {
+        "name": "Chants de baleine",
+        "description": "Vocalises utilisées pour la communication à longue distance.",
+        "clip": "Chants_de_baleine.mp3"
+    },
+    {
+        "name": "Craquement de glace",
+        "description": "Rupture de la banquise sous l'effet des courants.",
+        "clip": "Craquement_de_glace.mp3"
+    },
+    {
+        "name": "Craquement iceberg",
+        "description": "Bloc de glace dérivant qui se fracture ou bascule.",
+        "clip": "Craquement_iceberg.mp3"
+    },
+    {
+        "name": "Crevettes et dauphins",
+        "description": "Interaction sonore entre crustacés et mammifères marins.",
+        "clip": "Crevettes_et_dauphins.mp3"
+    },
+    {
+        "name": "Eruption volcanique sous-marine",
+        "description": "Éjection de lave et de gaz par un volcan immergé.",
+        "clip": "Eruption_volcanique_sous-marine.mp3"
+    },
+    {
+        "name": "Escorteur",
+        "description": "Navire de guerre chargé de protéger les convois.",
+        "clip": "Escorteur_en_transit.mp3"
+    },
+    {
+        "name": "Explosion",
+        "description": "Détonation sous-marine d'origine humaine ou technique.",
+        "clip": "Explosion.mp3"
+    },
+    {
+        "name": "Fregate",
+        "description": "Navire de combat polyvalent et rapide.",
+        "clip": "Fregate_et_emission_sonar.mp3"
+    },
+    {
+        "name": "Globicephales",
+        "description": "Cétacés noirs sociaux aussi appelés dauphins pilotes.",
+        "clip": "Globicephales.mp3"
+    },
+    {
+        "name": "Lancement torpille",
+        "description": "Arme sous-marine autopropulsée lancée vers une cible.",
+        "clip": "Lancement_explosion_torpille.mp3"
+    },
+    {
+        "name": "Langouste",
+        "description": "Crustacé benthique doté de longues antennes.",
+        "clip": "Langouste.mp3"
+    },
+    {
+        "name": "Marsouins",
+        "description": "Petits cétacés côtiers proches des dauphins.",
+        "clip": "Marsouins.mp3"
+    },
+    {
+        "name": "Orques",
+        "description": "Super-prédateurs de la famille des dauphins.",
+        "clip": "Orques_1.mp3"
+    },
+    {
+        "name": "Passage aeronef",
+        "description": "Avion ou hélicoptère survolant la mer à basse altitude.",
+        "clip": "Passage_aeronef.mp3"
+    },
+    {
+        "name": "Petrolier",
+        "description": "Navire géant transportant du pétrole en vrac.",
+        "clip": "Petrolier.mp3"
+    },
+    {
+        "name": "Pluie",
+        "description": "Impact des gouttes d'eau sur la surface de l'océan.",
+        "clip": "Pluie.mp3"
+    },
+    {
+        "name": "Poissons Grogneurs",
+        "description": "Poissons émettant des sons avec leur vessie natatoire.",
+        "clip": "Poissons_Grogneurs.mp3"
+    },
+    {
+        "name": "Porte-conteneurs",
+        "description": "Navire de commerce transportant des boîtes métalliques.",
+        "clip": "Porte-conteneurs.mp3"
+    },
+    {
+        "name": "Pseudorca",
+        "description": "Appelée fausse orque, c'est un grand dauphin noir.",
+        "clip": "Pseudorca.mp3"
+    },
+    {
+        "name": "Sonar FM",
+        "description": "Système de détection d'objets par écho sonore.",
+        "clip": "Sonar_FM.mp3"
+    },
+    {
         "name": "Sous-marin",
+        "description": "Bâtiment de combat capable de naviguer en immersion.",
         "clip": "Sous-marin.mp3"
+    },
+    {
+        "name": "Tanker",
+        "description": "Navire-citerne transportant des liquides en vrac.",
+        "clip": "Tanker.mp3"
+    },
+    {
+        "name": "Tursiops",
+        "description": "Le Grand Dauphin, espèce la plus célèbre du genre.",
+        "clip": "Tursiops_Marineland.mp3"
+    },
+    {
+        "name": "Vraquier",
+        "description": "Navire transportant des marchandises solides sans emballage.",
+        "clip": "Vraquier.mp3"
     }
 ]
